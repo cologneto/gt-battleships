@@ -1,13 +1,1 @@
-<div data-option="back help"> 
-	<script type="text/javascript" src="js/xdom/xdom.js"></script> 
-	<script type="text/javascript" src="js/xdom/xui.js"></script> 
-	<script type="text/javascript" src="js/messages/{session.language}.js"></script> 
-	<script type="text/javascript" src="js/neo-common.js"></script>
-
-	<link type="text/css" rel="stylesheet" href="css/xdom.css">
-	<link type="text/css" rel="stylesheet" href="css/xui.css">
-
-	<h1>Hello from the test tab</h1>
-	<h1>Hello from the test tab</h1>
-	<h1>Hello from the test tab</h1>	
-</div>
+{}
